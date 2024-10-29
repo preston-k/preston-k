@@ -8,3 +8,4 @@ I'm Preston, a high school student passionate about front and backend web develo
 
 ### Cloud Platforms:
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
