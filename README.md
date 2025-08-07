@@ -1,7 +1,7 @@
 # Hi there!
-I'm Preston, a high school student passionate about front and backend web development.
+I'm Preston, a high school student and the founder of Persona. I’m passionate about building technology that benefits all of humanity, bringing innovation to those who have historically been left out of technological progress and could benefit the most.
 
-Check out my website @ https://prestonkwei.com
+Check out our website @ https://usepersona.app
 
 ### Languages:
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
