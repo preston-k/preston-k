@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Preston — a high school student passionate about building things that actually get used.<br>At my school, I serve on the Innovation Team, where I’ve helped design an ecosystem of hardware and software — including an app used daily by 400+ students.<br><br>Outside of school, I’m the founder of Persona<br>, an AI executive assistant that replies to emails, schedules meetings, and sends follow-ups automatically so busy professionals can focus on what matters.
+👋 Hey, I’m Preston — a high school student passionate about building things that actually get used.<br>At my school, I serve on the Innovation Team, where I’ve helped design an ecosystem of hardware and software — including an app used daily by 400+ students.<br><br>Outside of school, I’m the founder of [Persona](https://usepersona.app?utm_source=github), an AI executive assistant that replies to emails, schedules meetings, and sends follow-ups automatically so busy professionals can focus on what matters.
 
 
 # 💻 Tech Stack:
